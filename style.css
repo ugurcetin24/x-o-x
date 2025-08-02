@@ -59,3 +59,7 @@ body {
 .restart-button:hover {
     background-color: #d67a22;
 }
+
+.win {
+    background-color: green;
+}
